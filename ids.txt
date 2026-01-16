@@ -1,0 +1,5 @@
+# 示例
+("skin.mc.sjtu.cn", "6"),
+("skin.mualliance.ltd", "27"),
+
+# 请在下方更新
