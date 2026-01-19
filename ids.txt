@@ -4,4 +4,6 @@
 
 # 请在下方更新
 ("skin.jsumc.fun", "2"),
+("skin.mc.taru.xj.cn", "6"),
 ("user.suesmc.ltd", "4"),
+
