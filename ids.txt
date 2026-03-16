@@ -6,4 +6,4 @@
 ("skin.jsumc.fun", "2"),
 ("skin.mc.taru.xj.cn", "6"),
 ("user.suesmc.ltd", "4"),
-
+("oauth.ustb.world", "6"),
