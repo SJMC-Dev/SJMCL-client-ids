@@ -3,7 +3,7 @@
 ("skin.mualliance.ltd", "27"),
 
 # 请在下方更新
+("hall.mc.taru.xj.cn", "yggc_kPHIuWBoMhlkThX1"),
 ("skin.jsumc.fun", "2"),
-("skin.mc.taru.xj.cn", "6"),
 ("user.suesmc.ltd", "4"),
 ("oauth.ustb.world", "6"),
