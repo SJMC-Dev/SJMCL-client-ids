@@ -4,6 +4,6 @@
 
 # 请在下方更新
 ("hall.mc.taru.xj.cn", "yggc_kPHIuWBoMhlkThX1"),
+("oauth.ustb.world", "6"),
 ("skin.jsumc.fun", "2"),
 ("user.suesmc.ltd", "4"),
-("oauth.ustb.world", "6"),
